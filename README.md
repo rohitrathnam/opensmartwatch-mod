@@ -5,7 +5,7 @@ Part of course lab Electronic System Design
 See Report.pdf for more details.
 
 ## Schematic
-![schematics](https://github.com/rohitrathnam/opensmartwatch-mod/blob/main/img/schematicv3.jpg?raw=true)
+![schematics](https://github.com/rohitrathnam/opensmartwatch-mod/blob/main/img/schematicv3.png?raw=true)
 
 ## PCB
 ![schematics](https://github.com/rohitrathnam/opensmartwatch-mod/blob/main/img/top.png?raw=true)
