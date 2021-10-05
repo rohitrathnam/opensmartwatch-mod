@@ -1,5 +1,6 @@
 # opensmartwatch-mod
-openSmartwatch project with an ECG frontend
+openSmartwatch project with an ECG frontend 
+
 Part of course lab Electronic System Design
 
 See Report.pdf for more details.
